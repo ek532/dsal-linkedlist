@@ -7,6 +7,6 @@ public class Main {
         linkedList.add("Bee");
         linkedList.add("Cat");
         linkedList.add("Dog");
-        linkedList.menu();
+        linkedList.print();
     }
 }
