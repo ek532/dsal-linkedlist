@@ -183,17 +183,3 @@ public void menu() {
         }
     }
 }
-
-
-    /**
-     * For your in class exercise explore completing the following methods for a Singly Linked list supported by
-     * your tutor.
-     *     // remove
-     *     // replace
-     *     // delete
-     *     // add at head
-     *     // menu
-     * If you complete all of these save the code, copy  and refactor the entire project as a doubly linked list.
-     */
-
-}
